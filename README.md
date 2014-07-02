@@ -6,37 +6,37 @@ Version 14.0 January 2014
 ## Contents
 
 > #### Individual or Groups (of Individuals)
->> Group
->> Allopathic & Osteopathic Physicians
->> Behavioral Health & Social Service Providers
->> Chiropractic Providers
->> Dental Providers
->> Dietary & Nutritional Service Providers
->> Emergency Medical Service Providers
->> Eye and Vision Services Providers
->> Nursing Service Providers
->> Nursing Service Related Providers
->> Other Service Providers
->> Pharmacy Service Providers
->> Physician Assistants & Advanced Practice Nursing Providers
->> Podiatric Medicine & Surgery Service Providers
->> Respiratory, Developmental, Rehabilitative and Restorative Service Providers
->> Speech, Language and Hearing Service Providers
->> Student, Health Care
->> Technologists, Technicians & Other Technical Service Providers
+>> * Group
+>> * Allopathic & Osteopathic Physicians
+>> * Behavioral Health & Social Service Providers
+>> * Chiropractic Providers
+>> * Dental Providers
+>> * Dietary & Nutritional Service Providers
+>> * Emergency Medical Service Providers
+>> * Eye and Vision Services Providers
+>> * Nursing Service Providers
+>> * Nursing Service Related Providers
+>> * Other Service Providers
+>> * Pharmacy Service Providers
+>> * Physician Assistants & Advanced Practice Nursing Providers
+>> * Podiatric Medicine & Surgery Service Providers
+>> * Respiratory, Developmental, Rehabilitative and Restorative Service Providers
+>> * Speech, Language and Hearing Service Providers
+>> * Student, Health Care
+>> * Technologists, Technicians & Other Technical Service Providers
 > #### Non-individual
->> Agencies
->> Ambulatory Health Care Facilities
->> Hospital Units
->> Hospitals
->> Laboratories
->> Managed Care Organizations
->> Nursing & Custodial Care Facilities
->> Other Service Providers
->> Residential Treatment Facilities
->> Respite Care Facility
->> Suppliers
->> Transportation Services
+>> * Agencies
+>> * Ambulatory Health Care Facilities
+>> * Hospital Units
+>> * Hospitals
+>> * Laboratories
+>> * Managed Care Organizations
+>> * Nursing & Custodial Care Facilities
+>> * Other Service Providers
+>> * Residential Treatment Facilities
+>> * Respite Care Facility
+>> * Suppliers
+>> * Transportation Services
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼
 
 ## Introduction
