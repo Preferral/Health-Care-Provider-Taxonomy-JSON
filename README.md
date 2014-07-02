@@ -24,6 +24,7 @@ Version 14.0 January 2014
 >> * Speech, Language and Hearing Service Providers
 >> * Student, Health Care
 >> * Technologists, Technicians & Other Technical Service Providers
+>
 > #### Non-individual
 >> * Agencies
 >> * Ambulatory Health Care Facilities
